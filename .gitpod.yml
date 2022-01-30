@@ -1,4 +1,4 @@
 tasks:
-  - init: ./init.sh
+  - init: /debug/init.sh
 image:
   file: .gitpod.Dockerfile
